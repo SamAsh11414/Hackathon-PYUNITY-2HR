@@ -1,4 +1,15 @@
 # Hackathon-PYUNITY-2HR
+
+Hackathon project that was done in 2 hours
+
+Theme: Console Games
+Idea: Piano tile type game
+
+Result: Fun game that actually works well
+
+
+
+
  
 ```
                                     ████                
